@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vaje10", "Vaje10\Vaje10.csproj", "{18769E51-3699-4268-B2C1-A96C2C129293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18769E51-3699-4268-B2C1-A96C2C129293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18769E51-3699-4268-B2C1-A96C2C129293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18769E51-3699-4268-B2C1-A96C2C129293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18769E51-3699-4268-B2C1-A96C2C129293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AF51999-4F78-4F77-B6D0-B94DD82C332E}
+	EndGlobalSection
+EndGlobal
